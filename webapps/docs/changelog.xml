@@ -44,6 +44,7 @@
   They eventually become mixed with the numbered issues (i.e., numbered
   issues do not "pop up" wrt. others).
 -->
+<<<<<<< HEAD
 <section name="Tomcat 8.5.45 (markt)">
   <subsection name="Coyote">
     <changelog>
@@ -251,6 +252,12 @@
   </subsection>
 </section>
 <section name="Tomcat 8.5.43 (markt)" rtext="2019-07-09">
+||||||| parent of 06a1f72577... Tag 8.5.40
+<section name="Tomcat 8.5.43 (markt)">
+=======
+<<<<<<< HEAD
+<section name="Tomcat 8.5.43 (markt)">
+>>>>>>> 06a1f72577... Tag 8.5.40
   <subsection name="Catalina">
     <changelog>
       <update>
